@@ -84,8 +84,9 @@
 ### 📍 Visitor Counter
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ishan-Avishka&icon=7&color=6&style=flat" />
+  <img src="https://shields.io/endpoint?url=https://visitor-badge.laobi.icu/badge?page_id=Ishan-Avishka.Ishan-Avishka&style=flat&color=blue" alt="visitors"/>
 </p>
+
 
 ---
 
